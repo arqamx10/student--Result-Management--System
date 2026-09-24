@@ -23,7 +23,7 @@ A simple Python-based student result management system.
 ## How to Run
 
 1. Download or clone this repository.
-2. Open `main.py` in Python.
+2. Open `newfile.py` in Python.
 3. Run the program.
 4. Follow the instructions shown in the menu.
 
