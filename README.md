@@ -33,4 +33,4 @@ This project was created to practice Python programming, functions, loops, lists
 
 ## Author
 
-Arqam Rashid
+Arqam Bin Rashid
